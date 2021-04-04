@@ -1,24 +1,5 @@
-.App {
-  text-align: center;  
-  position: relative;
-}
-
-
-
-.formContact{
-  position: relative;
-  border-radius: 5px;
-  margin-top: 70px;
-  box-shadow: 10px 10px 5px grey;
-  border: 5px solid rgb(204, 204, 204);
-  background: #ffffff;
-  color:darkblue;
-  font-family: 'Bold';
+.addMovieBtn {
   display: flex;
-  align-items: center;
-}
-
-.images{
-  margin-top: 10px;
-  margin-left: 80px;
+  justify-content: center;
+  margin: 40px;
 }
